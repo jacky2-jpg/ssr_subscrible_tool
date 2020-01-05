@@ -2,7 +2,7 @@
  * Util module
  *
  * @author Andy Chung
- * @date  2018-11-05
+ * @date  2020-01-05
  */
 // Deps
 let fs = require('fs')
