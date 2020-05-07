@@ -13,7 +13,7 @@ let base64 = (str) => {
 }
 
 // ReadFile Sync Function
-let readSync = (filePath) => fs.readFileSync(filePath).toString('utf-8')
+let readSync = (filePath, str) => fs.readFileSync(filePath).toString('utf-8')
 
 // WriteFile Sync Function
 let writeSync = (filePath, str) => fs.writeFileSync(filePath, str)
@@ -21,5 +21,5 @@ let writeSync = (filePath, str) => fs.writeFileSync(filePath, str)
 module.exports = {
 	base64,
 	readSync,
-	writeSync
+	writeSync,
 }
