@@ -1,14 +1,7 @@
 # 节点列表
 
 * HTTP
-# 香港寬頻 HKBN NC - HK - HTTP
-https://OTc5NDE4MjYwOjBiMTI2NGE0ODNANzk3NnNqZGNxLmhrLWhrYm4uZGF0YXBvcnQueHl6OjQ0Mw?peer=7976sjdcq.hk-hkbn.dataport.xyz#%E9%A6%99%E6%B8%AF%E5%AF%AC%E9%A0%BB%20HKBN%20NC%20-%20HK%20-%20HTTP
-
-# 香港電訊 HKT ABD - HK - HTTP
-https://OTc5NDE4MjYwOjBiMTI2NGE0ODNAYWJkMS5oay1oa3QuZGF0YXBvcnQueHl6OjIxNDQz?peer=abd1.hk-hkt.dataport.xyz#%E9%A6%99%E6%B8%AF%E9%9B%BB%E8%A8%8A%20HKT%20ABD%20-%20HK%20-%20HTTP
-
-# 阿里雲香港 AliCloud HK - HTTP
-https://OTc5NDE4MjYwOjBiMTI2NGE0ODNAbGJneW04NXR4LmhrLWFsaS50cmFkZXdpbmQubGluazo0NDM?peer=lbgym85tx.hk-ali.tradewind.link#%E9%98%BF%E9%87%8C%E9%9B%B2%E9%A6%99%E6%B8%AF%20AliCloud%20HK%20-%20HTTP
+# 无
 
 * SSRR
 # 🇭🇰Microsoft Azure - 1
