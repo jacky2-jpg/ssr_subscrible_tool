@@ -1,8 +1,5 @@
 # 节点列表
 
-* HTTP
-# 无
-
 * SSRR
 # 🇭🇰Microsoft Azure
 ssr://cm9oaS5uYmNsb3Vkcy5jbzozNjAwOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjA6cGxhaW46Ym1WNGFYUmhiR3g1Lz9vYmZzcGFyYW09JnByb3RvcGFyYW09TkRFeU16UTRORFU2TWpaak9EQmtaREk0T1dZeU5HRTVNUSZyZW1hcmtzPThKLUhyZkNmaDdCTmFXTnliM052Wm5RZ1FYcDFjbVVnTFNCSVN3Jmdyb3VwPVNrRkRTMWxPUlZST1Uwdw
