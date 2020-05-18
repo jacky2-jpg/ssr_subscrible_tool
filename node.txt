@@ -7,6 +7,12 @@ ssr://cm9oaS5uYmNsb3Vkcy5jbzozNjAwOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjA6cGxhaW46Ym
 # 🇭🇰Microsoft Azure (Port:3607)
 ssr://cm9oaS5uYmNsb3Vkcy5jbzozNjA3OmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjA6cGxhaW46Ym1WNGFYUmhiR3g1Lz9vYmZzcGFyYW09JnByb3RvcGFyYW09TkRFeU16UTRORFU2TWpaak9EQmtaREk0T1dZeU5HRTVNUSZyZW1hcmtzPThKLUhyZkNmaDdCTmFXTnliM052Wm5RZ1FYcDFjbVVnS0ZCdmNuUTZNell3TnlrJmdyb3VwPVNrRkRTMWxPUlZST1Uwdw
 
+# CN-HK 港寬頻 HKBN NC
+https://OTc5NDE4MjYwOjBiMTI2NGE0ODNANzk3NnNqZGNxLmhrLWhrYm4uZGF0YXBvcnQueHl6OjQ0Mw?peer=7976sjdcq.hk-hkbn.dataport.xyz#CN-HK%20%E6%B8%AF%E5%AF%AC%E9%A0%BB%20HKBN%20NC
+
+# CN-HK HGC ABD 1
+https://OTc5NDE4MjYwOjBiMTI2NGE0ODNAaGdjMS5oa2ctYWJkLmRhdGFwb3J0Lnh5ejoyMTQ0Mw?peer=hgc1.hkg-abd.dataport.xyz#CN-HK%20HGC%20ABD%201
+
 # CN-HK 億安 EONS
 https://OTc5NDE4MjYwOjBiMTI2NGE0ODNANzQtNjEuaGstZW9ucy50cmFkZXdpbmQubGluazoxMzQ0Mw?peer=74-61.hk-eons.tradewind.link#CN-HK%20%E5%84%84%E5%AE%89%20EONS
 
