@@ -16,5 +16,8 @@ https://OTc5NDE4MjYwOjBiMTI2NGE0ODNAMTE5LTIyMi50dy1lb25zLnRyYWRld2luZC5saW5rOjE0
 # CN-US 億安 EONS HE1
 https://OTc5NDE4MjYwOjBiMTI2NGE0ODNAaGUxLnNqYy1rY2QudHJhZGV3aW5kLmxpbms6MTM0NDM?peer=he1.sjc-kcd.tradewind.link#CN-US%20%E5%84%84%E5%AE%89%20EONS%20HE1
 
+# CH-HK 阿里雲 AliCloud
+https://OTc5NDE4MjYwOjBiMTI2NGE0ODNAOG5zeDg2c3R6LmhrLWFsaS50cmFkZXdpbmQubGluazo0NDM?peer=8nsx86stz.hk-ali.tradewind.link#CH-HK%20%E9%98%BF%E9%87%8C%E9%9B%B2%20AliCloud%2001
+
 # Alien - HK (Vmess备用)
 vmess://YXV0bzozMDI0ZDc3MS0yMjJhLTRkMmMtODIyOS04MjliM2EzNjc0ZTBAeXk0LmR1Y2tkbnMub3JnOjQ0Mw?remarks=Alien%20-%20HK%20(Vmess%E5%A4%87%E7%94%A8)&obfsParam=yy4.duckdns.org&path=/ray&obfs=websocket&tls=1&peer=yy4.duckdns.org&allowInsecure=1&mux=1
