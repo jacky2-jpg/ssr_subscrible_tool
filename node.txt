@@ -16,6 +16,9 @@ https://OTc5NDE4MjYwOjBiMTI2NGE0ODNAMTE5LTIyMi50dy1lb25zLnRyYWRld2luZC5saW5rOjE0
 # CN-US 億安 EONS HE1
 https://OTc5NDE4MjYwOjBiMTI2NGE0ODNAaGUxLnNqYy1rY2QudHJhZGV3aW5kLmxpbms6MTM0NDM?peer=he1.sjc-kcd.tradewind.link#CN-US%20%E5%84%84%E5%AE%89%20EONS%20HE1
 
+# CN-TW TFN 1
+https://OTc5NDE4MjYwOjBiMTI2NGE0ODNAdGZuMS50cGUta2NkLnRyYWRld2luZC5saW5rOjIwNDQz?peer=tfn1.tpe-kcd.tradewind.link#CN-TW%20TFN%201
+
 # CH-HK 阿里雲 AliCloud
 https://OTc5NDE4MjYwOjBiMTI2NGE0ODNAOG5zeDg2c3R6LmhrLWFsaS50cmFkZXdpbmQubGluazo0NDM?peer=8nsx86stz.hk-ali.tradewind.link#CH-HK%20%E9%98%BF%E9%87%8C%E9%9B%B2%20AliCloud%2001
 
