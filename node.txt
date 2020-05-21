@@ -13,12 +13,6 @@ https://OTc5NDE4MjYwOjBiMTI2NGE0ODNANzk3NnNqZGNxLmhrLWhrYm4uZGF0YXBvcnQueHl6OjQ0
 # CN-HK HGC ABD 1
 https://OTc5NDE4MjYwOjBiMTI2NGE0ODNAaGdjMS5oa2ctYWJkLmRhdGFwb3J0Lnh5ejoyMTQ0Mw?peer=hgc1.hkg-abd.dataport.xyz#CN-HK%20HGC%20ABD%201
 
-# CN-HK 億安 EONS
-https://OTc5NDE4MjYwOjBiMTI2NGE0ODNANzQtNjEuaGstZW9ucy50cmFkZXdpbmQubGluazoxMzQ0Mw?peer=74-61.hk-eons.tradewind.link#CN-HK%20%E5%84%84%E5%AE%89%20EONS
-
-# CN-TW 億安 EONS
-https://OTc5NDE4MjYwOjBiMTI2NGE0ODNAMTE5LTIyMi50dy1lb25zLnRyYWRld2luZC5saW5rOjE0NDQz?peer=119-222.tw-eons.tradewind.link#CN-TW%20%E5%84%84%E5%AE%89%20EONS
-
 # CN-US 億安 EONS HE1
 https://OTc5NDE4MjYwOjBiMTI2NGE0ODNAaGUxLnNqYy1rY2QudHJhZGV3aW5kLmxpbms6MTM0NDM?peer=he1.sjc-kcd.tradewind.link#CN-US%20%E5%84%84%E5%AE%89%20EONS%20HE1
 
