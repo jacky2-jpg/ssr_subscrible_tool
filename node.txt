@@ -10,8 +10,5 @@ ssr://cm9oaS5uYmNsb3Vkcy5jbzozNjA3OmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjA6cGxhaW46Ym
 # CN-US 億安 EONS HE1
 https://OTc5NDE4MjYwOjBiMTI2NGE0ODNAaGUxLnNqYy1rY2QudHJhZGV3aW5kLmxpbms6MTM0NDM?peer=he1.sjc-kcd.tradewind.link#CN-US%20%E5%84%84%E5%AE%89%20EONS%20HE1
 
-# CN-TW TFN 1
-https://OTc5NDE4MjYwOjBiMTI2NGE0ODNAdGZuMS50cGUta2NkLnRyYWRld2luZC5saW5rOjIwNDQz?peer=tfn1.tpe-kcd.tradewind.link#CN-TW%20TFN%201
-
 # Alien - HK (Vmess备用)
 vmess://YXV0bzozMDI0ZDc3MS0yMjJhLTRkMmMtODIyOS04MjliM2EzNjc0ZTBAeXk0LmR1Y2tkbnMub3JnOjQ0Mw?remarks=Alien%20-%20HK%20(Vmess%E5%A4%87%E7%94%A8)&obfsParam=yy4.duckdns.org&path=/ray&obfs=websocket&tls=1&peer=yy4.duckdns.org&allowInsecure=1&mux=1
