@@ -6,10 +6,13 @@ ssr://MS4yLjMuNDoxMjM0OmF1dGhfY2hhaW5fYTpjaGFjaGEyMC1pZXRmOnRsczEuMl90aWNrZXRfYX
 
 * Vmess
 # Good For CT
-vmess://YXV0bzo5YjdiZmIwYi1lMmQwLTQ4MDUtYjY0Yi05M2M2ZWU0Y2EzMzNAY3RjYy0wMDQuY2xvdWRmcm9udC1jZG4tdXMtd2VzdC5jb206NDQz?remarks=%E6%8E%A8%E8%8D%90*%E7%94%B5%E4%BF%A1%E4%BC%98%E5%8C%96004&obfsParam=ctcc-004.cloudfront-cdn-us-west.com&path=/clientarea&obfs=websocket&tls=1
+vmess://YXV0bzpmOGM5YjlmNC1hZWRhLTQ2ZDQtYjIwYi02ZGFlMzY5ZmZlNmRAY3RjYy0wMDQuY2xvdWRmcm9udC1jZG4tdXMtd2VzdC5jb206NDQz?remarks=%E6%8E%A8%E8%8D%90*%E7%94%B5%E4%BF%A1%E4%BC%98%E5%8C%96004&obfsParam=ctcc-004.cloudfront-cdn-us-west.com&path=/clientarea&obfs=websocket&tls=1
 
 # CN2 - 1
-vmess://YXV0bzpmYTZjZDExMC01MTlhLTRiZmYtOTVhNy02OGE5NDRiY2Y5NGNAY24yLWdpYS0wMDEuY2xvdWRmcm9udC1jZG4tdXMtd2VzdC5jb206NDQz?remarks=CN2%E7%BA%BF%E8%B7%AF%20%E7%BE%8E%E5%9B%BD01&obfsParam=cn2-gia-001.cloudfront-cdn-us-west.com&path=/clientarea&obfs=websocket&tls=1
+vmess://YXV0bzo0MGZkNWJhZS04NmYzLTQ2OGQtYWFiZC1lYjg5Yjg3NmQ2MWJAY24yLWdpYS0wMDEuY2xvdWRmcm9udC1jZG4tdXMtd2VzdC5jb206NDQz?remarks=CN2%E7%BA%BF%E8%B7%AF%20%E7%BE%8E%E5%9B%BD01&obfsParam=cn2-gia-001.cloudfront-cdn-us-west.com&path=/clientarea&obfs=websocket&tls=1
 
-#ALI - HK
-vmess://YXV0bzoyY2QxNjI1MS1lMTc1LTQ2ZjEtYmY5NC1mNWVlMDQ4Mzc2MDhAYWxpLXNhcy0wMDEuY2xvdWRmcm9udC1zZWN1cmUtYXAtaGsuY29tOjQ0Mw?remarks=%E9%A6%99%E6%B8%AF%E9%98%BF%E9%87%8C%E4%BA%91-001&obfsParam=ali-sas-001.cloudfront-secure-ap-hk.com&path=/clientarea&obfs=websocket&tls=1
+# CN2 - 2
+vmess://YXV0bzo0ZWY3ZGZlOS1jMTYyLTRlNjEtYTQ2Yy1hMTI2OTdkNGViYThAY24yLWdpYS0wMDIuY2xvdWRmcm9udC1jZG4tdXMtd2VzdC5jb206NDQz?remarks=CN2%E7%BA%BF%E8%B7%AF%20%E7%BE%8E%E5%9B%BD02&obfsParam=cn2-gia-002.cloudfront-cdn-us-west.com&path=/clientarea&obfs=websocket&tls=1
+
+# Gigsgigs - HK - JP中转 50Mbps
+vmess://YXV0bzo0NWEyYWNjYy0zMzBlLTRjZTQtYTYwOC0yMTEwZTNjOTI2MTJAMjcuMTIyLjU3LjE5OToyNDU3NA?remarks=Gigsgigs%20-%20HK%20-%20JP%E4%B8%AD%E8%BD%AC%20Vmess&obfsParam=%7B%22uplinkCapacity%22:%2250%22,%22downlinkCapacity%22:%22200%22,%22header%22:%22wechat-video%22%7D&obfs=mkcp&mux=1
